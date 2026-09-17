@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DATS 1001</title>
+<link>https://your-website-url.example.com/Megansblog.html</link>
+<atom:link href="https://your-website-url.example.com/Megansblog.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto &amp; Megan Guzman</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sun, 09 May 2027 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>My First Post</title>
+  <link>https://your-website-url.example.com/posts/post1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="why-spider-man-is-such-a-great-superhero" class="level1">
+<h1>Why Spider man is such a great Superhero</h1>
+<section id="its-not-because-hes-hot." class="level2">
+<h2 class="anchored" data-anchor-id="its-not-because-hes-hot.">Its not because hes hot.</h2>
+<p>Against contrary belief, his looks is not the only thing that makes him so popular.</p>
+<p><a href="https://www.esquire.com/entertainment/movies/a66024733/tom-holland-spider-man-brand-new-day-news/">Spider mans newest movie</a></p>
+<p>He is a young teenager from New York, and he embodies that <strong>perfectly</strong>. In superhero movies, especially among popular hero, its rare to get the youth to be represented in such an accurate way. But Spider man does it right <em>every time</em>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/post1/images(6).jpeg" class="img-fluid figure-img"></p>
+<figcaption>Miles Morales Spider man</figcaption>
+</figure>
+</div>
+<p>Why Spider man is better then other Avengers/popular hero: - He feels the most human. - The “with great power comes great responsibility” theme is universal. - He’s funny without being emotionless.</p>
+<p>Best scenes that prove this: 1. Peter’s first meeting with Tony Stark — Captain America: Civil War 2. If you were good enough, maybe Tony would have called you” — Spider-Man: Homecoming 3. Peter saves the Washington Monument — Homecoming 4. “I don’t want to go” — Infinity War</p>
+<p>Remember guys, this blog is still under construction. Upcoming photos are still inside my post1’ folder waiting to be published. Pl be patient!</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">print</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"My spider-sense is tingling!"</span>)</span></code></pre></div></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "My spider-sense is tingling!"</code></pre>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">web_shooters <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span></span>
+<span id="cb3-2">e_cartridges <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6</span></span>
+<span id="cb3-3"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">print</span>(web_shooters <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> e_cartridges)</span></code></pre></div></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 8</code></pre>
+</div>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/post1/</guid>
+  <pubDate>Sun, 09 May 2027 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
